@@ -1,0 +1,1 @@
+#hasheq((bst-runner . "test-bst.c") (heap-runner . "test-heap.c") (q1-runner . "test-bst.c") (q2-runner . "test-pq.c") (q3-runner . "reval.c"))
